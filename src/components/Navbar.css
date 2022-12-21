@@ -1,0 +1,18 @@
+.navbar {
+  color: #23252c;
+  background-color: aliceblue;
+  font-size: 25px;
+  font-weight: 700;
+  display: flex;
+  justify-content: right;
+  padding-right: 40px;
+}
+
+.link {
+  text-decoration: none;
+  padding-inline-start: 15px;
+  margin-top: 15px;
+}
+h2 {
+  color: aliceblue;
+}
